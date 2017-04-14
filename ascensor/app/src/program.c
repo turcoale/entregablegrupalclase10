@@ -1,10 +1,12 @@
-/*Ejercicio Entregable 10
+/*=============================================================================
+Ejercicio Entregable 10
 Autores:
         Gessi Paniagua
         Guillermo López
         Amid Ale
 Implementación de MEF en un ascensor
- */
+ =============================================================================*/
+ 
 
 /*==================[inclusions]=============================================*/
 
