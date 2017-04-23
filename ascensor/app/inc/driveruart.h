@@ -13,6 +13,13 @@ MODULO driveruart Manejo de puerto Serial
 
 #include "sapi.h"
 
+void entrarModoMenu(void);
+void mostrarMenu(void);
+void leerEntradaUsuario(void);
+
+static bool_t nuevodato = 0;
+static uint8_t dato;
+
 
 
 #endif
