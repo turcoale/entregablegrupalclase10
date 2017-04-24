@@ -17,9 +17,10 @@ void entrarModoMenu(void);
 void mostrarMenu(void);
 void leerEntradaUsuario(void);
 
-static bool_t nuevodato = 0;
+static bool_t nuevodato;
 static uint8_t dato;
-
+static bool_t out;
+uint8_t configuraciones[4];
 
 
 #endif
